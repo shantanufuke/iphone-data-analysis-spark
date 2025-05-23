@@ -9,7 +9,6 @@ This project performs basic analysis on iPhone product data using PySpark. It ex
 
 ## 📁 Project Structure
 - `IPhone Data Analysis Spark Project.ipynb`: Main notebook with Spark code and analysis steps
-- `data/`: Folder for raw iPhone data (`apple_products.csv`)
 
 ## 🚀 How to Run
 1. Set up a PySpark environment (e.g., using Databricks, local Spark, or Google Colab)
